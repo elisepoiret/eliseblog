@@ -1,10 +1,11 @@
 ---
-title: "Elise's blog"
+title: "The animal inteligence"
 site: distill::distill_website
 listing: posts
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
+distill::create_post("First article")
 ```
 
