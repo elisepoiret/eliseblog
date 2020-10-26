@@ -1,7 +1,7 @@
 ---
 title: "First article"
 description: |
-  A short description of the post.
+  animal behavior before an earthquake
 author:
   - name: Elise Poiret
     url: {}
@@ -15,7 +15,57 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# Article 1 : Do animals realy anticipate earthquakes?
+
+## Sources of the article with publication date and word count
+
+source of the article : <https://www.scientificamerican.com/article/do-animals-really-anticipate-earthquakes-sensors-hint-they-do/>
+
+Word count : 1021
+
+## Vocabulary
+
+| word from the test | Synonym/definition in English                                | French translation    |
+| ------------------ | ------------------------------------------------------------ | --------------------- |
+| slither            | glide                                                        | glisser               |
+| earthquake         | a sudden, violent shaking of the earth's surface             | tremblement de terre  |
+| behavior           | the way that somebody behaves towards other people           | comportement          |
+| sheep              | mutton / lamb                                                | mouton                |
+| tremor             | a small earthquake in which the ground shakes slightly       | tremblement           |
+| barking ( to bark) | when a dog barks ,it makes a short loud sound                | aboiement             |
+| toads              | small animal like a frog                                     | crapauds              |
+| substantiate       |  to prove that something is true                             | justifier             |
+|  ants              | a small insect                                               | fourmis               |
+| quake              | tremor                                                       | tremblement           |
+| go along with      | to agree with somebody                                       | être d'accord         |
+| farm               | an area of land, used for growing crops and  keeping animals |  ferme                |
+| nervousness        | the feeling of being anxious                                 | nervosité             |
+| seismic activity   | connected with or caused by earthquakes                      | activité sismique     |
+| cow                | a large animal kept on farms to produce milk or beef         | vache                 |
+| increased          | greater in amount                                            | augmenté              |
+| stable             | /                                                            | étable                |
+| pasture            | land covered with grass                                      | patrage/pature        |
+| ahead              | in front                                                     | devant/avant          |
+| survival skills    | the ability to survive                                       | techniques de survie  |
+| avoidance          | preventing something from existing or happening              | évitement             |
+| swarm              | a large group of insects                                     | essaim                |
+| hawk               | a strong fast bird of prey                                   | faucon                |
+| somehow            | in a way that is not know or certain                         | en quelque sorte      |
+| outward            | going away from a particular place                           | vers l'extérieur      |
+| wonders whether    | /                                                            | se demande si         |
+| instance           | example                                                      | exemple               |
+
+
+## Analysis table about the study
+
+* Researchers? : 
+  + researchers at the Max Planck Institute of Animal Behavior and the University of Konstanz (Germany)  
+  + study co-author Martin Wikelski, managing director of the Max Planck Institute of Animal Behavior.   + Heiko Woith, a geologist at GFZ German Research Center for Geosciences and a co-author of the 2018 review 
+  + article written by Nancy Averett
+* Published in ? when? : published in "scientific amircain" on July 31, 2020
+* Procedure/What was examined ? : they attached sensitive instruments that record accelerated movements on six cows, five sheep and two dogs living on a farm in an earthquake-prone area and see that the farm animals appeared to anticipate tremors, reacting earlier when they were closer to the origin and later when they were farther away.
+* conclusion/ discovery : currently, they could not differentiate all the potential stimuli the animals might react to. But they think that is a good first step toward more controlled studies in the future
+*Remaining questions : /
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 

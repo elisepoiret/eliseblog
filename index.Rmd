@@ -4,6 +4,8 @@ site: distill::distill_website
 listing: posts
 ---
 
+![think monkey](petit singe.jpg)
+
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 distill::create_post("First article")
