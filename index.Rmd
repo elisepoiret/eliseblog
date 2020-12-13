@@ -11,3 +11,7 @@ listing: posts
 distill::create_post("First article")
 ```
 
+
+```{r, echo FALSE, eval = FALSE}
+distill::create_post("Second article")
+```

@@ -1,7 +1,7 @@
 ---
-title: "First article"
+title: "Does animal behavior predict an earthquake? "
 description: |
-  animal behavior before an earthquake
+  Analysis of "Animal behavior before an earthquake"
 author:
   - name: Elise Poiret
     url: {}

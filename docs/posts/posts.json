@@ -1,8 +1,23 @@
 [
   {
+    "path": "posts/2020-12-13-second-article/",
+    "title": "Links between primate brain size and their intelligence ",
+    "description": "Analysis of : \"Primate brain size does not predict their intelligence.\"",
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-13T18:43:05+01:00"
+  },
+  {
     "path": "posts/2020-10-26-first-article/",
-    "title": "First article",
-    "description": "animal behavior before an earthquake",
+    "title": "Does animal behavior predict an earthquake? ",
+    "description": "Analysis of \"Animal behavior before an earthquake\"",
     "author": [
       {
         "name": "Elise Poiret",
@@ -12,7 +27,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-10T10:17:14+01:00"
+    "last_modified": "2020-12-13T18:39:10+01:00"
   },
   {
     "path": "posts/about/",
