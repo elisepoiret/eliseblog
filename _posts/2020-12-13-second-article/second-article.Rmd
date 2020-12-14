@@ -16,7 +16,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# Article 2 : Primate brain size does not predict their intelligence. 
+
+# Article 2 : Primate brain size does not predict their intelligence.
+
+![think monkey](thinkmonkey.jpg)
+
+picture source : <https://www.discovermagazine.com/planet-earth/everything-worth-knowing-about-animal-intelligence>
 
 ## Sources of the article with publication date and word count
 

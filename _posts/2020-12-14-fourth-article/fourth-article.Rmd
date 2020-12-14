@@ -1,0 +1,70 @@
+---
+title: "Intelligence of rats and mice"
+description: |
+  Analysis of "Hiddens lives of rats and mice"
+author:
+  - name: Elise Poiret
+    url: {}
+date: 12-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 4 : Hidden lives of rats and mice
+
+## Sources of the article with publication date and word count
+
+<https://www.peta.org/features/hidden-lives-rats-mice/>
+
+word count : 675
+
+## Vocabulary
+
+| word from the test | Synonym/definition in English                                                                                                | French translation       |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| Mice               | /                                                                                                                            | souris                   |
+| rodents            | any small animal that belongs to a group of animals with strong sharp front teeth. Mice, rats and squirrels are all rodents. | rongeurs                 |
+| at least           | not less than                                                                                                                | au moins                 |
+| the rats           | a small animal with a long tail, that looks like a large mouse                                                               | Les rats                 |
+| to figure          |  to calculate an amount or the cost of something                                                                             | compter/calculer         |
+| figuring  them out | /                                                                                                                            | les comprendre           |
+| memories           |  your ability to remember things                                                                                             | mémoire                  |
+| the eyesight       | the ability to see                                                                                                           |  la vue                  |
+|  bond              | adherence/adhesion                                                                                                           | adhésion                 |
+| to  scratch        | to squawk                                                                                                                    | gratter                  |
+| to tickle          | to move your fingers on a sensitive part of somebody’s body in a way that makes them laugh                                   | chatouiller              |
+| to chirp           | to squeak/to peep                                                                                                            | gazouiller               |
+| strikingly         | in a way that is interesting and unusual enough to attract attention                                                         | remarquablement          |
+| laughter           | the act or sound of laughing                                                                                                 | rire                     |
+| marvelous          | fantastique/wonderful                                                                                                        | fabuleux/fantastique     |
+| snuggle            | to get into, or to put somebody/something into, a warm comfortable position, especially close to somebody                    | se blottir/se pelotonner |
+| cuddle             | to hold somebody/something close in your arms to show love                                                                   | câliner                  |
+| tremendously       | to a very great degree                                                                                                       | énormément               |
+| inquisitive        | curious/agog                                                                                                                 | curieux                  |
+| pine away          | to become very sick and weak because you miss somebody/something very much                                                   | dépérir                  |
+| experiment         | a scientific test that is done in order to study what happens and to gain new knowledge                                      | expérience               |
+| to increase        | to augment/ to rise                                                                                                          | augmenter                |
+| cold-blooded       | having a body temperature that depends on the temperature of the surrounding air or water                                    | sang-froid               |
+| grooming           | the things that you do to keep your clothes and hair clean and neat, or to keep an animal’s fur or hair clean                | toilettage               |
+| curled up          | to lie or sit with your back curved and your arms and legs bent close to your body                                           | recroquevillé            |
+| companionship      | the pleasant feeling that you have when you have a friendly relationship with somebody and are not alone                     | compagnie                |
+| lonely             | unhappy because you have no friends or people to talk to                                                                     | seul                     |
+| empathy            | the ability to understand another person’s feelings, experience, etc.                                                        | empathie                 |
+| choosy             | fussy/picky                                                                                                                  | fine bouche              |
+| to nest            | a place where insects or other small creatures live and produce their young                                                  | nicher/faire son nid     |
+
+## Analysis table about the study
+
+* Researchers? : 
+   + A part of the article talks about a recent studies by Jaak Panksepp, a neuroscientist at Bowling Green State University
+   + 
+* Published in ? when? : published in "Peta" on October 28, 2020
+* Procedure/What was examined ? : it is about rats and mice , their life , their behaviour. 
+* conclusion/ discovery : Mice and rats are fastidiously clean animals, highly social animals (they become attached to each other, love their own families, and easily bond with their human guardians), they have complex systems of communication. They are smart and choosy.
+*Remaining questions : /
+

@@ -1,10 +1,11 @@
 ---
-title: "The animal inteligence"
+title: "The animal intelligence"
 site: distill::distill_website
 listing: posts
 ---
 
-![think monkey](thinkmonkey.jpg)
+![animal intelligence](animalinteligencepicture.jpg)
+picture source : <https://www.youtube.com/watch?app=desktop&v=6VfYyz8Zpho>
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
@@ -12,6 +13,10 @@ distill::create_post("First article")
 ```
 
 
-```{r, echo FALSE, eval = FALSE}
+```{r, echo = FALSE, eval = FALSE}
 distill::create_post("Second article")
 ```
+```{r, echo = FALSE, eval = FALSE}
+distill::create_post("Third article")
+```
+
