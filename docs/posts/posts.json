@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2020-12-15-graphicdescription/",
+    "title": "Zooplanckton graphic description",
+    "description": "Zooplankton dataset analysis and graphic description",
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-15",
+    "categories": [
+      "Data Sciences I",
+      "Data Description",
+      "Graph + description"
+    ],
+    "preview": "posts/2020-12-15-graphicdescription/graphicdescription_files/figure-html5/graph-1.png",
+    "last_modified": "2020-12-16T22:12:13+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/2020-12-13-second-article/",
     "title": "Links between primate brain size and their intelligence ",
     "description": "Analysis of : \"Primate brain size does not predict their intelligence.\"",

@@ -1,7 +1,11 @@
 ---
-title: "graphic_description"
+title: "Zooplanckton graphic description"
+categories: 
+  - Data Sciences I 
+  - Data Description 
+  - Graph + description
 description: |
-  A short description of the post.
+  Zooplankton dataset analysis and graphic description
 author:
   - name: Elise Poiret
     url: {}
@@ -12,10 +16,27 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# Dataset description
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+```{r import}
+zooplankton <- read("zooplankton", package = "data.io")
+```
+
+The dataset "zooplankton" discribed various features measured on a samples of zooplankton originating from Madagascar with R and ZooImage. It comes from Grosjean, Ph and K. Denis who supervised classification of images.
+
+# 
+
+```{r graph}
+chart(zooplankton, ~ class %fill=% class) + 
+  scale_fill_viridis_d() +
+  labs(y = "effecive") +
+  geom_bar()
+```
+
+The calanoid class is the biggest 
+
+
 
