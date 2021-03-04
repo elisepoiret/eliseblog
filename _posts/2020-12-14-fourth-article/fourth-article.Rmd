@@ -1,5 +1,5 @@
 ---
-title: "Intelligence of rats and mice"
+title: "Article N°4 : Intelligence of rats and mice"
 description: |
   Analysis of "Hiddens lives of rats and mice"
 author:

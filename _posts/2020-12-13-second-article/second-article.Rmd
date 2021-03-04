@@ -1,5 +1,5 @@
 ---
-title: "Links between primate brain size and their intelligence "
+title: "Article N°2 : Links between primate brain size and their intelligence "
 description: |
   Analysis of : "Primate brain size does not predict their intelligence."
 author:

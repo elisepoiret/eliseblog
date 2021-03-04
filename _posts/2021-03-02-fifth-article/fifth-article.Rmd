@@ -1,0 +1,62 @@
+---
+title: "Article N°5 : Pigs can play video games scientists discover"
+description: |
+  Analysis of "Pigs can play video games, scientists discover" 
+author:
+  - name: Elise Poiret
+    url: {}
+date: 03-02-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 5 : Pigs can play video games, scientists discover.
+
+## Sources of the article with publication date and word count
+
+source of the article : <https://theconversation.com/pigs-can-play-video-games-scientists-discover-154993>
+
+Word count : 715
+
+## Vocabulary
+
+| word from the test | Synonym/definition in English | French translation    |
+| ------------------ | ----------------------------- | --------------------- |
+| digital screen     | computer screen               | écran digital         |
+| snout              | animal's nose                 | museau                |
+| rewards            | compensation                  | récompense            |
+| thumb              | thickest digit of the hand    | pouce                 |
+| for instance       | for exemple                   | par exemple           |
+| master             | expert                        | expert                |
+| to prove something | demonstrate                   | démontrer/s'avérer    |
+| sheep              | farm animal                   | mouton                |
+| cattle             | animals like cows             | bovins                |
+| hunt for something | search for something          | chercher              |
+| welfare            | well being                    | bien être             |
+| housing            | uncountabe                    | logement              |
+| automated feeders  | feeding machine               | mangeoire automatisée |
+| boredom            | lack of interest              | ennui                 |
+| undoubtedly        | certainly                     | indubitablement       |
+| cope               | overcome difficulties         | surmonter             |
+| monetary           | relating to money             | financier             |
+| oink               | grunt or squeal of a pig      | grognement            |
+| weaning            | stopping breast feeding       | sevrage               |
+| piglet             | young pig                     | porcelet              |
+| stewardship        | role of administrator         | gérance               |
+
+## Analysis table about the study
+
+* Researchers? : 
+  + talk about a study from Purdue University in Indiana
+  + article written by Rebecca E Nordquist (Assistant Professor of Veterinary Medicine, Utrecht University)
+  
+* Published in ? when? : published in "The conversation" on February 11, 2021
+* Procedure/What was examined ? : this article talk about the abilites of pigs 
+* conclusion/ discovery : shelling is socially transmitted among dolphin peers rather than between mother and offspring sets highlights similarities with certain primates, who also rely on both vertical and horizontal learning of foraging behavior. 
+*Remaining questions : /
+

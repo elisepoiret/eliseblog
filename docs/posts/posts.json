@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-02-fifth-article/",
+    "title": "Article N°5 : Pigs can play video games scientists discover",
+    "description": "Analysis of \"Pigs can play video games, scientists discover\"",
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-04T10:56:21+01:00"
+  },
+  {
     "path": "posts/2020-12-15-graphicdescription/",
     "title": "Zooplanckton graphic description",
     "description": "Zooplankton dataset analysis and graphic description",
@@ -16,13 +31,28 @@
       "Graph + description"
     ],
     "preview": "posts/2020-12-15-graphicdescription/graphicdescription_files/figure-html5/graph-1.png",
-    "last_modified": "2020-12-16T22:12:13+01:00",
+    "last_modified": "2020-12-17T20:43:57+01:00",
     "preview_width": 1248,
     "preview_height": 768
   },
   {
+    "path": "posts/2020-12-14-fourth-article/",
+    "title": "Article N°4 : Intelligence of rats and mice",
+    "description": "Analysis of \"Hiddens lives of rats and mice\"",
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-02T09:36:10+01:00"
+  },
+  {
     "path": "posts/2020-12-13-second-article/",
-    "title": "Links between primate brain size and their intelligence ",
+    "title": "Article N°2 : Links between primate brain size and their intelligence ",
     "description": "Analysis of : \"Primate brain size does not predict their intelligence.\"",
     "author": [
       {
@@ -33,11 +63,11 @@
     "date": "2020-12-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-13T22:34:31+01:00"
+    "last_modified": "2021-03-02T09:37:37+01:00"
   },
   {
     "path": "posts/2020-12-13-third-article/",
-    "title": "Dolphins learn to use tools",
+    "title": "Article N°3 : Dolphins learn to use tools",
     "description": "Analysis of \"Dolphins learn how to use tools from peers, just like great apes.\"",
     "author": [
       {
@@ -48,11 +78,11 @@
     "date": "2020-12-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-14T20:57:13+01:00"
+    "last_modified": "2021-03-02T09:37:50+01:00"
   },
   {
     "path": "posts/2020-10-26-first-article/",
-    "title": "Does animal behavior predict an earthquake? ",
+    "title": "Article N°1 : Does animal behavior predict an earthquake? ",
     "description": "Analysis of \"Animal behavior before an earthquake\"",
     "author": [
       {
@@ -63,7 +93,7 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-13T18:39:10+01:00"
+    "last_modified": "2021-03-02T09:38:07+01:00"
   },
   {
     "path": "posts/about/",

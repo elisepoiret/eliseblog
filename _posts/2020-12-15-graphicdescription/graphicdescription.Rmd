@@ -27,16 +27,13 @@ zooplankton <- read("zooplankton", package = "data.io")
 
 The dataset "zooplankton" discribed various features measured on a samples of zooplankton originating from Madagascar with R and ZooImage. It comes from Grosjean, Ph and K. Denis who supervised classification of images.
 
-# 
+# The size of the different classes.
 
 ```{r graph}
-chart(zooplankton, ~ class %fill=% class) + 
-  scale_fill_viridis_d() +
-  labs(y = "effecive") +
-  geom_bar()
+chart(zooplankton, size  ~ class %col=% class) + 
+  geom_point(show.legend = TRUE)
 ```
-
-The calanoid class is the biggest 
-
-
+ 
+ 
+ The cnidrians are the biggest. After the cnidarians it is the chaetognathes and the fish who are the biggest. The smallest are the protists. We see a greater diversity of size in chaetognaths and cnidarians. 
 

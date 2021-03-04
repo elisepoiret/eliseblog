@@ -1,5 +1,5 @@
 ---
-title: "Does animal behavior predict an earthquake? "
+title: "Article N°1 : Does animal behavior predict an earthquake? "
 description: |
   Analysis of "Animal behavior before an earthquake"
 author:

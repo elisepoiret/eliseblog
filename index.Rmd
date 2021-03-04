@@ -1,5 +1,5 @@
 ---
-title: "The animal intelligence"
+title: "Animal intelligence"
 site: distill::distill_website
 listing: posts
 ---

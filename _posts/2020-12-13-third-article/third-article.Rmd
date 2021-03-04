@@ -1,5 +1,5 @@
 ---
-title: "Dolphins learn to use tools"
+title: "Article N°3 : Dolphins learn to use tools"
 description: |
   Analysis of "Dolphins learn how to use tools from peers, just like great apes."
 author:
@@ -59,7 +59,7 @@ word count : 722
   + Study author Michael Krützen, an anthropologist at the University of Zurich 
    launched the study of Shark Bay’s dolphins
   + article written by Liz Langley 
-* Published in ? when? : published in "Natagora" on June 25, 2020
+* Published in ? when? : published in "National geographic" on June 25, 2020
 * Procedure/What was examined ? : Krützen identifies more than a thousand individual dolphins over 11 years. During this time, scientists observed shelling 42 times among 19 dolphins. 
 * conclusion/ discovery : shelling is socially transmitted among dolphin peers rather than between mother and offspring sets highlights similarities with certain primates, who also rely on both vertical and horizontal learning of foraging behavior. 
 *Remaining questions : /

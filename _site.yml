@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "The animal intelligence (Elise's blog)"
+title: "Animal intelligence (Elise's blog)"
 output_dir: "docs"
 navbar:
   right:
