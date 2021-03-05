@@ -1,0 +1,28 @@
+---
+title: "Article N°6 : octopuses are super-smart...but are they conscious"
+description: |
+  Analysis of "octopuses are super-smart...but are they conscious"
+author:
+  - name: Elise Poiret
+    url: {}
+date: 03-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 6 : Octopus are super-smart but are they conscious.
+
+
+
+
+## Sources of the article with publication date and word count
+
+<https://theconversation.com/octopuses-are-super-smart-but-are-they-conscious-57846>
+
+Word count : 910
+
