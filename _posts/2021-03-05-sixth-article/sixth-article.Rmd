@@ -17,12 +17,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Article 6 : Octopus are super-smart but are they conscious.
 
-
-
-
 ## Sources of the article with publication date and word count
 
 <https://theconversation.com/octopuses-are-super-smart-but-are-they-conscious-57846>
 
 Word count : 910
+
+## Vocabulary
+
+
 
