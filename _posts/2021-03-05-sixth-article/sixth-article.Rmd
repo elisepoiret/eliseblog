@@ -1,7 +1,7 @@
 ---
-title: "Article N°6 : octopuses are super-smart...but are they conscious"
+title: "Article N°6 : Clever cuttlefish show advanced self-control, like chimps and crows"
 description: |
-  Analysis of "octopuses are super-smart...but are they conscious"
+  Analysis of "Clever cuttlefish show advanced self-control, like chimps and crows"
 author:
   - name: Elise Poiret
     url: {}
@@ -15,15 +15,59 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Article 6 : Octopus are super-smart but are they conscious.
+# Article 6 : Clever cuttlefish show advanced self-control, like chimps and crows.
 
 ## Sources of the article with publication date and word count
 
-<https://theconversation.com/octopuses-are-super-smart-but-are-they-conscious-57846>
+<https://theconversation.com/clever-cuttlefish-show-advanced-self-control-like-chimps-and-crows-155795>
 
-Word count : 910
+Word count : 900
 
 ## Vocabulary
 
+| word from the test | Synonym/definition in English    | French translation                     |
+| ------------------ | -------------------------------- | -------------------------------------- |
+| clever             | ingenious person                 | intelligent, astucieux                 |
+| cuttlefish         | cephalopod similar to a squid    | seiche                                 |
+| crows              | black bird                       | corbeau                                |
+| soaked             | very wet                         | trempé                                 |
+| cranky             | in bad mood (UK) / eccentric     | grincheux/ excentrique                 |
+| squirt             | spurt out                        | gicler/ jaillir                        |
+| tank               | storage container for liquids    | réservoir                              |
+| hose               | tube for watering                | tuyau d'arrosage                       |
+| trick              | prank                            | blague, tour                           |
+| foraging           | hunting for food                 | chercher de la nourriture              |
+| self control       | restraint                        | maîtrise de soi                        |
+| drench             | make very wet                    | tremper                                |
+| delay              | cause to be late                 | retarder                               |
+| meanwhile          | at the same time                 | pendant ce temps                       |
+| toddler            | 1 2 year old chil                | tout petit, bambin                     |
+| willpower          | determination                    | volonté                                |
+| reward             | compensation                     | récompense                             |
+| bait               | attach lure to fishing           | appâter                                |
+| prawn              | shrimp (us), edible sea creature | crevette                               |
+| tasty              | tastes good                      | savoureux                              |
+| impulse            | sudden urge                      | impulsion, coup de tête                |
+| lifespan           | lifetime                         | durée de vie                           |
+| fine tune          | adjust precisely                 | affiner, peaufiner, régler précisément |
+| avoid              | stay away from                   | éviter                                 |
+| bout               | time period                      | période                                |
+| edible             | can be eaten                     | comestible                             |
+
+## Analysis table about the study
+
+* Researchers? : 
+  + Alexandra Schnell, Nicky Clayton and Roger Hanlon, 
+  + article written by Alexandra Schnell 
+* Published in ? when? : published in "The conversation" on March 3, 2021
+* Procedure/What was examined ? : They decided to test the self-control of cuttlefish by adapting the Standford marshmallow experiment. The Standford marshmallow experiment consist in given to children the choice of taking an immediate reward (a single marshmallow) or waiting for the superior but delayed reward of two marshmallows. They did almost the same with cuttlefish : cuttlefish were presented with two desirable prey items, each contained within a separate Perspex chamber.
+One chamber was baited with a piece of king prawn (their second preference) which they could eat immediately and the second chamber was baited with a live grass shrimp (their firstpreference) which they could eat if they waited and did not eat the first prawn. They tested a range of delays starting from ten seconds and increasing the delay by increments of ten seconds.
+Then they decided to test the learning performance of their cuttlefish in a separate reversal-learning task. First, we had the cuttlefish associate one of the coloured markers with food, by rewarding them with food when they went to it. Then, we reversed the experiment. That meant the cuttlefish had to associate the other coloured marker with an edible reward. 
+* conclusion/ discovery : In the Standford marshmallow experiment they observed that all six cuttlefish who was tested has wait for the better live shrimp and were able to tolerate delays up to 130 seconds. This abilities can be comparate with what we see in chimpanzees, crow or other long-lived social species. 
+At the end of the second experiment they conclude that cuttlefish that were quicker at learning both the first association and the reversed association were also better at resisting temptation in the marine marshmallow test.
+These findings are the first demonstration of a link between self-control and learning performance outside of the primate lineage.
+* Remaining questions : 
+  + Why is the cuttlefish very good in self-control ? It probably because of their eating habits : they need to stay motionless in camouflage for long period to avoid predators and they need a good quality prey so the cuttlefish who wait for better-quality prey could forage more efficiently at the same time as limiting their exposure to predator. 
+  + Why is it important to find that cuttlefish are capable of some of the facets that are thought to be fundamental to the evolution of human intelligence ? It a big example of convergent evolution. Finding cognitive similarities between such distantly related animals is an important piece of the evolutionary puzzle. It could bring us one step closer to pinpointing the origins of intelligence. 
 
 
