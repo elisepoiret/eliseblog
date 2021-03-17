@@ -1,0 +1,38 @@
+---
+title: "Article N°7 : Birds that play with others have the biggest brains - and the same may go for humans"
+description: |
+  Analysis of "Birds that play with others have the biggest brains - and the same may go for humans".
+author:
+  - name: Elise Poiret
+    url: {}
+date: 03-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 7 : Birds that play with other have the. biggest brain - and the same may go for humans .
+
+## Sources of the article with publication date and word count
+
+<https://theconversation.com/birds-that-play-with-others-have-the-biggest-brains-and-the-same-may-go-for-humans-151079>
+
+Word count : 963
+
+## Vocabulary
+
+
+## Analysis table about the study
+
+* Researchers? : 
+  + 
+  + article written by Gisela Kaplan (Emeritus Professor in Animal Behaviour, University of New England)
+* Published in ? when? : published in "the conversation" on January 14, 2021
+* Procedure/What was examined ? : 
+* conclusion/ discovery :  
+*Remaining questions : /
+
