@@ -25,14 +25,52 @@ Word count : 963
 
 ## Vocabulary
 
+| word from the test     | Synonym/definition in English                                                 | French translation        |
+| ---------------------- | ----------------------------------------------------------------------------- | ------------------------- |
+| Magpie                 | specie of bird                                                                | Pie                       |
+| Apostlebird            | specie of bird                                                                | Apôtre gris               |
+| stick                  | twig                                                                          | baton                     |
+| to cast (sth)          | to throw                                                                      | jeter                     |
+| Black breasted buzzard | specie of bird                                                                | Bondrée à plastron        |
+| Black kite             | specie of bird                                                                | Milan noir                |
+| embers                 | hot coal made of greatly heated wood                                          | braises                   |
+| twig                   | stick                                                                         | brindille                 |
+| to feast               | banquet                                                                       | festoyer                  |
+| fleeing                | try to escape                                                                 | fuyant                    |
+| Palm cockatoos         | specie of bird                                                                | Cacatoès noir             |
+| to drum                | play with an instrument                                                       | tambouriner               |
+| to skip                | to jump                                                                       | sauter                    |
+| to duck                | to avoid                                                                      | éviter                    |
+| widespread             | spread/ expanded                                                              | répandu                   |
+| honeyeater             | something that eat honey                                                      | méliphage                 |
+| Parrot                 | specie of bird                                                                | Perroquet                 |
+| Currawong              | specie of bird                                                                | Strepera                  |
+| Butcherbird            | specie of bird                                                                | Cassican                  |
+| Riflebird              | specie of bird                                                                | Paradisier de Victoria    |
+| Topknot pigeon         | specie of bird                                                                | Carpophage à double huppe |
+| Rainbow lorikeet       | specie of bird                                                                | Loriquet arc-en-ciel      |
+| household items        | things that come from a house                                                 | objets ménager            |
+| leaf                   | sheet                                                                         | feuille                   |
+| Kookaburra             | specie of bird                                                                | Dacelo                    |
+| corvids                | family of species of birds                                                    | corvidés                  |
+| Ravens                 | specie of bird                                                                | Corbeau                   |
+| wrest sth              | /                                                                             | arracher qqch             |
+| White-winges choughs   | specie of bird                                                                | Corbicrave leucoptère     |
+| enabling               | /                                                                             | permettant/ habilitant    |
+| by no means            | under no cicumstances                                                         | en aucun cas              |
+| to trigger             | to start                                                                      | déclencher                |
+| offspring              | the product of reproduction of a new organism produced by one or more parents | descendant                |
+| to protract            | to extend                                                                     | prolonger                 |
 
 ## Analysis table about the study
 
 * Researchers? : 
-  + 
-  + article written by Gisela Kaplan (Emeritus Professor in Animal Behaviour, University of New England)
+  + Gisela Kaplan ( Professor in Animal Behaviour, University of New England)
+  + article written by Gisela Kaplan 
 * Published in ? when? : published in "the conversation" on January 14, 2021
-* Procedure/What was examined ? : 
-* conclusion/ discovery :  
-*Remaining questions : /
+* Procedure/What was examined ? : She try to make a link between the size of the brain and the play behavior in 77 natives Australian bird species. 
+* conclusion/ discovery : the analysis of data set showed that brain size and forms of play are associated.Social players, versus other players and versus non-players showed significantly different average brain sizes in each category:
+non players have the lowest average brain size, solo players had slightly larger brains than non-players, object players had larger brains again and social players had by far the largest average brain size relative to body weight. 
+Playing socially or even just playing at all, is related to a bigger brain and a long life.
+*Remaining questions : Does it mean something for humain brain evolution ? Can make a link ? Yes, the steps of development in humans and birds seem to have some similarities and this may be significant. Playing together offers more than just passing the time. It could be an evolutionary driver for intelligence, and even for a long life.
 
