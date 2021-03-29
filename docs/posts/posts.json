@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-28-eighth-article/",
+    "title": "Article N°8 : How to tell if your dog is a genius",
+    "description": "Analysis of \"How to tell if your dog is a genius\"",
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-29T22:48:53+02:00"
+  },
+  {
     "path": "posts/2021-03-17-seventh-article/",
     "title": "Article N°7 : Birds that play with others have the biggest brains - and the same may go for humans",
     "description": "Analysis of \"Birds that play with others have the biggest brains - and the same may go for humans\".",

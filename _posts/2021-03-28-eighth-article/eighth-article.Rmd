@@ -1,0 +1,56 @@
+---
+title: "Article N°8 : How to tell if your dog is a genius"
+description: |
+  Analysis of "How to tell if your dog is a genius"
+author:
+  - name: Elise Poiret
+    url: {}
+date: 03-28-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 8 :How to tell if your dog is a genius
+
+## Sources of the article with publication date and word count
+
+<https://theconversation.com/how-to-tell-if-your-dog-is-a-genius-154426>
+
+Word count : 888
+
+## Vocabulary
+
+| word from the test | Synonym/definition in English | French translation          |
+| ------------------ | ----------------------------- | --------------------------- |
+| to avoid           | to avert                      | éviter/ empêcher            |
+| owner              | proprietor                    | propriétaire                |
+| to fetch smth      | to bring back                 | aller chercher qqch         |
+| allowed            | permissible                   | autorisé                    |
+| trial              | test                          | épreuve/ essai              |
+| to decay           | to worsen                     | décliner/ se détériorer     |
+| breed              | race                          | race                        |
+| purposefully       | /                             | délibérément/volontairement |
+| handler            | master                        | maître-chien                |
+| hound              | hunter                        | chien de chasse             |
+| Salukis            | race of dog                   | Lévrier persan              |
+| Greyhounds         | race of dog                   | Lévrier greyhound           |
+| cue                | signal                        | signal                      |
+| Poodle             | race of dog                   | Caniche                     |
+
+## Analysis table about the study
+
+* Researchers? : 
+  + article written by Jan Hoole (Lecturer in Biology, Keele University) 
+* Published in ? when? : published in "the conversation" on February 02, 2021
+* Procedure/What was examined ? : Some of dog learn the name of a new object after hearing it only four times but some of dog doesn't have this abilities so they try to know why. The study involved two different dog. The researchers tested each dogs’ knowledge of their toys by asking them to bring each toy in turn. Neither the owners nor the experimenters could see the toys, to avoid influencing the dogs’ choice.
+Once it was established the dogs knew the names of all their toys, the researchers introduced two new objects, placing each in turn in a group of known toys.
+For the next part of the study the dog was shown a toy, told its name and was then allowed to play with it. After four repetitions of the name of two different new toys, the dog was asked to choose one of the two new toys.
+* conclusion/ discovery : For the first part of the experiment they see that the first dog chose the new toy every single time and the second dog fetched the right one in 52.5% of trials. In the second part of the experiment they see that both dogs chose the new toy more often than chance would predict, suggesting they were indeed learning the name of a new object very quickly. 
+To conclued they said : "It’s quite possible to teach all dogs to perform tasks, including learning the names of objects. But the degree to which they’re willing and able to learn, and to carry out the task, is very much regulated by breed of dog and the level of motivation the individual dog possesses." 
+*Remaining questions : /
+
