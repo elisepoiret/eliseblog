@@ -1,7 +1,9 @@
 ---
 title: "Article N°4 : Intelligence of rats and mice"
+categories:
+  - "Articles"
 description: |
-  Analysis of "Hiddens lives of rats and mice"
+  let's see how much rats and mice are intelligent.
 author:
   - name: Elise Poiret
     url: {}
@@ -62,7 +64,7 @@ word count : 675
 
 * Researchers? : 
    + A part of the article talks about a recent studies by Jaak Panksepp, a neuroscientist at Bowling Green State University
-   + 
+   
 * Published in ? when? : published in "Peta" on October 28, 2020
 * Procedure/What was examined ? : it is about rats and mice , their life , their behaviour. 
 * conclusion/ discovery : Mice and rats are fastidiously clean animals, highly social animals (they become attached to each other, love their own families, and easily bond with their human guardians), they have complex systems of communication. They are smart and choosy.

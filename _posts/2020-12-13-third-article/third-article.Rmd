@@ -1,7 +1,9 @@
 ---
 title: "Article N°3 : Dolphins learn to use tools"
+categories:
+  - "Articles"
 description: |
-  Analysis of "Dolphins learn how to use tools from peers, just like great apes."
+  Dolphins teaching each other a new way to use a tool to hunt. It's a big discover because social learning is rare in nature.
 author:
   - name: Elise Poiret
     url: {}

@@ -1,7 +1,9 @@
 ---
 title: "Article N°8 : How to tell if your dog is a genius"
+categories:
+  - "Articles"
 description: |
-  Analysis of "How to tell if your dog is a genius"
+  description of a study that we can try with our dog but is it able to do this ? Of course it depend of the dog's race ! 
 author:
   - name: Elise Poiret
     url: {}

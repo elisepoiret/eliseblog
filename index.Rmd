@@ -1,22 +1,27 @@
 ---
 title: "Animal intelligence"
 site: distill::distill_website
-listing: posts
+listing: posts 
 ---
 
 ![animal intelligence](animalinteligencepicture.jpg)
 picture source : <https://www.youtube.com/watch?app=desktop&v=6VfYyz8Zpho>
 
-```{r, echo = FALSE, eval = FALSE}
-#distill::create_post("my post") # use this fonction to create a new post
-distill::create_post("First article")
-```
+Welcome in my blog about the animal intelligence !
+
+Here is a little introduction : 
+
+How smart are animals ? Are they more intelligent than us ?  
+The "intelligence" can be define in so many ways : " the ability to learn, understand, be self-aware, be emotional, be problems solver,...". On Wikipedia we can read that intelligence is "the ability to perceive or infer information, and to retain it as knowledge to be applied towards adaptive behaviors within an environment or context."...So the big question is : Did Animals are able to do all this things ?   
+In this blog I show some abilities that animals can have but you should know that it is just a little piece of all the things that we can notice in the whole world.
+From Farm animals who predict earthquake to dolphins who use tools passing by cuttlefish with self-control I'll show some astonishing things about " animal intelligence". 
+In other articles they try to explain where does this thinking ability come from. Can we make a link between the brain size and the cleverness ?  
 
 
-```{r, echo = FALSE, eval = FALSE}
-distill::create_post("Second article")
-```
-```{r, echo = FALSE, eval = FALSE}
-distill::create_post("Third article")
-```
+
+
+
+
+
+
 

@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+categories:
+  - "About me"
 author:
   - name: "Elise Poiret" 
 date: "`r Sys.Date()`"

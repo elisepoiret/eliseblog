@@ -1,7 +1,9 @@
 ---
 title: "Article N°5 : Pigs can play video games scientists discover"
+categories:
+  - "Articles"
 description: |
-  Analysis of "Pigs can play video games, scientists discover" 
+  You don't dream : pigs can play video games ! They  can use a digital screen and joystick.
 author:
   - name: Elise Poiret
     url: {}

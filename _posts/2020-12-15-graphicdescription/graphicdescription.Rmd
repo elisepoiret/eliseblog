@@ -1,9 +1,7 @@
 ---
 title: "Zooplanckton graphic description"
 categories: 
-  - Data Sciences I 
-  - Data Description 
-  - Graph + description
+  - "Graph + description (SDD)"
 description: |
   Zooplankton dataset analysis and graphic description
 author:

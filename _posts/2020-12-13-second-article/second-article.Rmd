@@ -1,7 +1,9 @@
 ---
 title: "Article N°2 : Links between primate brain size and their intelligence "
+categories:
+  - "Articles"
 description: |
-  Analysis of : "Primate brain size does not predict their intelligence."
+  research team compare the cognitive abilities of different species of primate and the size of their brain.
 author:
   - name: Elise Poiret
     url: {}

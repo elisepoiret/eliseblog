@@ -6,12 +6,14 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "M.E.A.L."
-      href: "posts/meal/index.html"
+      href: posts/meal/index.html
     - text: "About Me"
-      href: "posts/about/index.html"
+      href: posts/about/index.html
     - icon: fab fa-github
       href: https://github.com/elisepoiret/eliseblog
-base_url: elisepoiret.github.io/eliseblog/
+base_url : elisepoiret.github.io/eliseblog 
+categories: 
+    - texte:"Articles"
 collections:
     posts:
       share: [twitter, linkedin, facebook]

@@ -2,58 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>elisepoiret.github.io/eliseblog/</loc>
-    <lastmod>2021-03-02T09:35:15+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-28-eighth-article/</loc>
-    <lastmod>2021-03-29T22:48:53+02:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-17-seventh-article/</loc>
-    <lastmod>2021-03-26T11:18:43+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-05-sixth-article/</loc>
-    <lastmod>2021-03-15T11:02:50+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-02-fifth-article/</loc>
-    <lastmod>2021-03-05T10:44:38+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-15-graphicdescription/</loc>
-    <lastmod>2020-12-17T20:43:57+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-14-fourth-article/</loc>
-    <lastmod>2021-03-02T09:36:10+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-13-second-article/</loc>
-    <lastmod>2021-03-02T09:37:37+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-13-third-article/</loc>
-    <lastmod>2021-03-05T10:46:06+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2020-10-26-first-article/</loc>
-    <lastmod>2021-03-02T09:38:07+01:00</lastmod>
+    <lastmod>2021-05-03T13:17:25+02:00</lastmod>
   </url>
   <url>
     <loc>elisepoiret.github.io/eliseblog/posts/about/</loc>
-    <lastmod>2020-10-26T14:06:23+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2019-10-24-bacteria-antobiotics/</loc>
-    <lastmod>2020-10-26T13:20:41+01:00</lastmod>
-  </url>
-  <url>
-    <loc>elisepoiret.github.io/eliseblog/posts/2019-10-25-biggest-rodent/</loc>
-    <lastmod>2020-10-26T13:20:41+01:00</lastmod>
+    <lastmod>2021-05-03T13:38:56+02:00</lastmod>
   </url>
   <url>
     <loc>elisepoiret.github.io/eliseblog/posts/meal/</loc>
-    <lastmod>2020-10-26T13:20:41+01:00</lastmod>
+    <lastmod>2021-05-03T13:47:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2021-05-02-conclusion/</loc>
+    <lastmod>2021-05-03T13:35:57+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-28-eighth-article/</loc>
+    <lastmod>2021-05-03T13:35:12+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-17-seventh-article/</loc>
+    <lastmod>2021-05-03T13:34:47+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-05-sixth-article/</loc>
+    <lastmod>2021-05-03T13:34:20+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2021-03-02-fifth-article/</loc>
+    <lastmod>2021-05-03T13:33:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-15-graphicdescription/</loc>
+    <lastmod>2021-05-03T13:31:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-14-fourth-article/</loc>
+    <lastmod>2021-05-03T13:33:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-13-second-article/</loc>
+    <lastmod>2021-05-03T13:32:15+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2020-12-13-third-article/</loc>
+    <lastmod>2021-05-03T13:32:41+02:00</lastmod>
+  </url>
+  <url>
+    <loc>elisepoiret.github.io/eliseblog/posts/2020-10-26-first-article/</loc>
+    <lastmod>2021-05-03T13:31:43+02:00</lastmod>
   </url>
 </urlset>

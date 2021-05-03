@@ -1,0 +1,57 @@
+---
+title: "Conclusion and Bibliography"
+categories:
+  - "conclusion & bibliography"
+description: |
+  So, how smart animals are? Here is my conclusion and all the source that i used for answer. 
+author:
+  - name: Elise Poiret
+    url: {}
+date: 05-02-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Conclusion
+
+A pig who plays video games, a cuttlefish with self-control, birds who play with others, dolphins who use tools,...All this articles demonstrate a little part of how smart animals can be !  
+For a long time Humans have been thinking that they are the only intelligent form of life on earth. They thought that their abilities to design tool and use it, their feelings, their awareness, their notion of time separate their mind from an animal but animals are also able to have self-control, feelings, make tools and use it to ! 
+So it is unquestionable : Animals can be very smart! 
+
+# Bibliography 
+
+Nancy Averett. (2020, July 31). Do Animals Really Anticipate Earthquakes? Sensors Hint They Do. Scientific american.
+<https://www.scientificamerican.com/article/do-animals-really-anticipate-earthquakes-sensors-hint-they-do/>
+
+Liz Langley. (2020, June 25). Dolphins learn how to use tools from peers, just like great apes. National geographic. 
+<https://www.nationalgeographic.com/animals/article/dolphins-use-tools-peers-similar-great-apes>
+
+Deutsches Primatenzentrum (DPZ)/German Primate Center. (2020, september 25). Primate brain size does not predict their intelligence : Scientists from Göttingen compare cognitive skills of different primate species. ScienceDaily.
+<https://www.sciencedaily.com/releases/2020/09/200925113353.htm>
+
+Peta. (2020, october 28). Hidden Lives of Rats and Mice. 
+<https://www.peta.org/features/hidden-lives-rats-mice/>
+
+Rebecca E Nordquist. (2021, February 11). Pigs can play video games, scientists discover. The conversation. 
+<https://theconversation.com/pigs-can-play-video-games-scientists-discover-154993>
+
+Alexandra Schnell. (2021, March 03). Clever cuttlefish show advanced self-control, like chimps and crows. The conversation.
+<https://theconversation.com/clever-cuttlefish-show-advanced-self-control-like-chimps-and-crows-155795>
+
+Gisela Kaplan. (2021, January 14). Birds that play with others have the biggest brains - and the same may go for humans. The conversation. <https://theconversation.com/birds-that-play-with-others-have-the-biggest-brains-and-the-same-may-go-for-humans-151079>
+
+Jan Hoole. (2021, February 02). How to tell if your dog is a genius? The conversation. <https://theconversation.com/how-to-tell-if-your-dog-is-a-genius-154426>
+
+Linguee. [online translator]. DeepL GmbH. <https://www.linguee.com/>
+
+WordReference. [Online bilingual dictionaries]. <https://www.wordreference.com>
+
+Oxford Learner's dictionary. [online dictionary]. <https://www.oxfordlearnersdictionaries.com> 
+
+
+

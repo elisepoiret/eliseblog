@@ -1,7 +1,9 @@
 ---
 title: "Article N°7 : Birds that play with others have the biggest brains - and the same may go for humans"
+categories:
+  - "Articles"
 description: |
-  Analysis of "Birds that play with others have the biggest brains - and the same may go for humans".
+  A study show a very clear differences in relative brain mass when birds showing play behaviour
 author:
   - name: Elise Poiret
     url: {}

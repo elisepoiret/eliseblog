@@ -1,7 +1,9 @@
 ---
 title: "Article N°1 : Does animal behavior predict an earthquake? "
+categories:
+  - "Articles"
 description: |
-  Analysis of "Animal behavior before an earthquake"
+   Some animals change their behavior just before seismic events, researchers try to make a link between these unusual animal behavior and earthquake.
 author:
   - name: Elise Poiret
     url: {}

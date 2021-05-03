@@ -1,8 +1,59 @@
 [
   {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [
+      "About me"
+    ],
+    "preview": {},
+    "last_modified": "2021-05-03T13:38:56+02:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "___",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-03",
+    "categories": [
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2021-05-03T13:47:04+02:00"
+  },
+  {
+    "path": "posts/2021-05-02-conclusion/",
+    "title": "Conclusion and Bibliography",
+    "description": "So, how smart animals are? Here is my conclusion and all the source that i used for answer.",
+    "author": [
+      {
+        "name": "Elise Poiret",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-02",
+    "categories": [
+      "conclusion & bibliography"
+    ],
+    "preview": {},
+    "last_modified": "2021-05-03T13:35:57+02:00"
+  },
+  {
     "path": "posts/2021-03-28-eighth-article/",
     "title": "Article N°8 : How to tell if your dog is a genius",
-    "description": "Analysis of \"How to tell if your dog is a genius\"",
+    "description": "description of a study that we can try with our dog but is it able to do this ? Of course it depend of the dog's race !",
     "author": [
       {
         "name": "Elise Poiret",
@@ -10,14 +61,16 @@
       }
     ],
     "date": "2021-03-28",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-29T22:48:53+02:00"
+    "last_modified": "2021-05-03T13:35:12+02:00"
   },
   {
     "path": "posts/2021-03-17-seventh-article/",
     "title": "Article N°7 : Birds that play with others have the biggest brains - and the same may go for humans",
-    "description": "Analysis of \"Birds that play with others have the biggest brains - and the same may go for humans\".",
+    "description": "A study show a very clear differences in relative brain mass when birds showing play behaviour",
     "author": [
       {
         "name": "Elise Poiret",
@@ -25,14 +78,16 @@
       }
     ],
     "date": "2021-03-17",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-26T11:18:43+01:00"
+    "last_modified": "2021-05-03T13:34:47+02:00"
   },
   {
     "path": "posts/2021-03-05-sixth-article/",
     "title": "Article N°6 : Clever cuttlefish show advanced self-control, like chimps and crows",
-    "description": "Analysis of \"Clever cuttlefish show advanced self-control, like chimps and crows\"",
+    "description": "Cuttlefish with self-control? Yes, it's on of his many abilities. A theam of researcher test the self-control of cuttlefish by adapting a famous psychology experiment used to test toddlers’ willpower.",
     "author": [
       {
         "name": "Elise Poiret",
@@ -40,14 +95,16 @@
       }
     ],
     "date": "2021-03-05",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-15T11:02:50+01:00"
+    "last_modified": "2021-05-03T13:34:20+02:00"
   },
   {
     "path": "posts/2021-03-02-fifth-article/",
     "title": "Article N°5 : Pigs can play video games scientists discover",
-    "description": "Analysis of \"Pigs can play video games, scientists discover\"",
+    "description": "You don't dream : pigs can play video games ! They  can use a digital screen and joystick.",
     "author": [
       {
         "name": "Elise Poiret",
@@ -55,9 +112,11 @@
       }
     ],
     "date": "2021-03-02",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-05T10:44:38+01:00"
+    "last_modified": "2021-05-03T13:33:54+02:00"
   },
   {
     "path": "posts/2020-12-15-graphicdescription/",
@@ -71,19 +130,17 @@
     ],
     "date": "2020-12-15",
     "categories": [
-      "Data Sciences I",
-      "Data Description",
-      "Graph + description"
+      "Graph + description (SDD)"
     ],
     "preview": "posts/2020-12-15-graphicdescription/graphicdescription_files/figure-html5/graph-1.png",
-    "last_modified": "2020-12-17T20:43:57+01:00",
+    "last_modified": "2021-05-03T13:31:33+02:00",
     "preview_width": 1248,
     "preview_height": 768
   },
   {
     "path": "posts/2020-12-14-fourth-article/",
     "title": "Article N°4 : Intelligence of rats and mice",
-    "description": "Analysis of \"Hiddens lives of rats and mice\"",
+    "description": "let's see how much rats and mice are intelligent.",
     "author": [
       {
         "name": "Elise Poiret",
@@ -91,14 +148,16 @@
       }
     ],
     "date": "2020-12-14",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-02T09:36:10+01:00"
+    "last_modified": "2021-05-03T13:33:00+02:00"
   },
   {
     "path": "posts/2020-12-13-second-article/",
     "title": "Article N°2 : Links between primate brain size and their intelligence ",
-    "description": "Analysis of : \"Primate brain size does not predict their intelligence.\"",
+    "description": "research team compare the cognitive abilities of different species of primate and the size of their brain.",
     "author": [
       {
         "name": "Elise Poiret",
@@ -106,14 +165,16 @@
       }
     ],
     "date": "2020-12-13",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-02T09:37:37+01:00"
+    "last_modified": "2021-05-03T13:32:15+02:00"
   },
   {
     "path": "posts/2020-12-13-third-article/",
     "title": "Article N°3 : Dolphins learn to use tools",
-    "description": "Analysis of \"Dolphins learn how to use tools from peers, just like great apes.\"",
+    "description": "Dolphins teaching each other a new way to use a tool to hunt. It's a big discover because social learning is rare in nature.",
     "author": [
       {
         "name": "Elise Poiret",
@@ -121,14 +182,16 @@
       }
     ],
     "date": "2020-12-13",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": {},
-    "last_modified": "2021-03-05T10:46:06+01:00"
+    "last_modified": "2021-05-03T13:32:41+02:00"
   },
   {
     "path": "posts/2020-10-26-first-article/",
     "title": "Article N°1 : Does animal behavior predict an earthquake? ",
-    "description": "Analysis of \"Animal behavior before an earthquake\"",
+    "description": "Some animals change their behavior just before seismic events, researchers try to make a link between these unusual animal behavior and earthquake.",
     "author": [
       {
         "name": "Elise Poiret",
@@ -136,97 +199,10 @@
       }
     ],
     "date": "2020-10-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-02T09:38:07+01:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Elise Poiret",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-26T14:06:23+01:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
     "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-26T13:20:41+01:00",
-    "preview_width": 3333,
-    "preview_height": 2667
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
+      "Articles"
     ],
     "preview": {},
-    "last_modified": "2020-10-26T13:20:41+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-10-26T13:20:41+01:00"
+    "last_modified": "2021-05-03T13:31:43+02:00"
   }
 ]

@@ -1,7 +1,9 @@
 ---
 title: "Article N°6 : Clever cuttlefish show advanced self-control, like chimps and crows"
+categories:
+  - "Articles"
 description: |
-  Analysis of "Clever cuttlefish show advanced self-control, like chimps and crows"
+  Cuttlefish with self-control? Yes, it's on of his many abilities. A theam of researcher test the self-control of cuttlefish by adapting a famous psychology experiment used to test toddlers’ willpower.
 author:
   - name: Elise Poiret
     url: {}
